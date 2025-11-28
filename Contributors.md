@@ -10,6 +10,7 @@ R S Mani
 Abhishek Singh  
 Dr. Seema Khanna  
 
+Prof Rajesh khanna
 ---------------------------------
 Industry and Academia Leadership
 ---------------------------------
@@ -22,7 +23,6 @@ Prof. Amrutur Bharadawaj
 Vikalp Sahni  
 Rahul Goyal  
 Rahul Matthan  
-Arghya Sengupta  
 
 ---------------------------------
 Contributors (Government)
